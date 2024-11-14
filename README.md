@@ -1,5 +1,7 @@
 # Passkeys : The Good, The Bad, The Ugly
 
+![FIDO 2014 vs FIDO 2024](fido20142024.jpg "FIDO 2014 vs FIDO 2024")
+
 Slides and sample code from the [Devcon 7 presentation](https://app.devcon.org/schedule/XFLPAR)
 
 The sample code will allow you to dump your own syncable Passkeys on iOS (tested on 18.1) and Android (tested on 15) devices. Some assembly required, read the slides first. 
